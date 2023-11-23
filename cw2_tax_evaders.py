@@ -1,9 +1,8 @@
 """Take Home Pay calculator - Tax Evaders
-  katherine Donnelly    25230875
-  karl Ely              25294024
-  Alex Murphy           25280139
-  Libby Salter          25276034
-  tutor - Suleman Awan
+  katherine Donnelly    
+  karl Ely              
+  Alex Murphy           
+  Libby Salter         
 
   key:
   taxinc = taxable income         taxpay = the amount of tax paid
